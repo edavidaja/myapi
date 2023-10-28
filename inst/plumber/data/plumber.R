@@ -13,4 +13,4 @@ cors <- function(res) {
 #* Get example data
 #* @get /data/
 #* @serializer unboxedJSON
-myapi:::get_my_data(pool)
+myapi:::get_my_data
